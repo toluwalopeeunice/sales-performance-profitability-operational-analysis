@@ -51,6 +51,7 @@ The invalid order dates were associated with Row_ID values **496, 1437, and 2192
 Financial discrepancies were flagged for review rather than automatically treated as resolved. Original values were preserved where possible to support transparency and traceability.
 
 ## Dashboard 1 — Executive Sales Overview
+![Sales Performance Profitability Operation Analysis Dashboard](EXECUTIVE SALES PERFORMANCE/DASHBOARD.PNG)
 
 This dashboard presents key sales indicators, monthly revenue trends, and performance across regions and product categories.
 
