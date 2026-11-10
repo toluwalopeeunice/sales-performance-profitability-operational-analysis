@@ -51,7 +51,7 @@ The invalid order dates were associated with Row_ID values **496, 1437, and 2192
 Financial discrepancies were flagged for review rather than automatically treated as resolved. Original values were preserved where possible to support transparency and traceability.
 
 ## Dashboard 1 — Executive Sales Overview
-![Sales Performance Profitability Operation Analysis Dashboard](EXECUTIVE SALES PERFORMANCE/DASHBOARD.PNG)
+![Sales Performance Profitability Operation Analysis Dashboard](images/EXECUTIVE SALES PERFORMANCE DASHBOARD.PNG)
 
 This dashboard presents key sales indicators, monthly revenue trends, and performance across regions and product categories.
 
@@ -67,6 +67,7 @@ The South West region and Provisions category generated the highest revenue, at 
 Sales records were heavily concentrated in 2023, consistent with the original dataset.
 
 ## Dashboard 2 — Profitability Analysis
+![Sales Performance Profitability Operation Analysis Dashboard](images/PROFITABILITY ANALYSIS DASHBOARD.PNG)
 
 This dashboard examines recorded gross profit, profit margin, COGS, and profitability by product category and region.
 
@@ -80,6 +81,7 @@ This dashboard examines recorded gross profit, profit margin, COGS, and profitab
 Provisions generated approximately ₦9 million in recorded gross profit, while South West generated approximately ₦10.1 million.
 
 ## Dashboard 3 — Operational Efficiency
+![Sales Performance Profitability Operation Analysis Dashboard](images/OPERATIONAL EFFICIENCY DASHBOARD.PNG)
 
 This dashboard evaluates order fulfilment, delivery performance, product returns, and order statuses.
 
