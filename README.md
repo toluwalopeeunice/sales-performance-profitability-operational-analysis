@@ -68,7 +68,8 @@ The South West region and Provisions category generated the highest revenue, at 
 Sales records were heavily concentrated in 2023, consistent with the original dataset.
 
 ## Dashboard 2 — Profitability Analysis
-![Sales Performance Profitability Operation Analysis Dashboard](images/PROFITABILITY ANALYSIS DASHBOARD.PNG)
+
+![Profitability Analysis Dashboard](images/PROFITABILITY%20ANALYSIS%20DASHBOARD.PNG)
 
 This dashboard examines recorded gross profit, profit margin, COGS, and profitability by product category and region.
 
@@ -82,7 +83,9 @@ This dashboard examines recorded gross profit, profit margin, COGS, and profitab
 Provisions generated approximately ₦9 million in recorded gross profit, while South West generated approximately ₦10.1 million.
 
 ## Dashboard 3 — Operational Efficiency
-![Sales Performance Profitability Operation Analysis Dashboard](images/OPERATIONAL EFFICIENCY DASHBOARD.PNG)
+
+![Operational Efficiency Dashboard](images/OPERATIONAL%20EFFICIENCY%20DASHBOARD.PNG)
+
 
 This dashboard evaluates order fulfilment, delivery performance, product returns, and order statuses.
 
